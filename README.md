@@ -2,6 +2,11 @@
 
 Mini-projects of the technologies that use.
 
+lkasjd
+
+- a
+- llajsd
+- aslkjd salk's
 
 Software needed:
 
