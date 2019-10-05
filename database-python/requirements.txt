@@ -1,0 +1,7 @@
+Flask
+pandas
+scikit-learn
+sqlalchemy
+pyodbc
+sqlite3
+PyMySQL
