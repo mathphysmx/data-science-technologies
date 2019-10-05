@@ -1,6 +1,6 @@
 # Software
 
-This repository contains mini-projects of the technologies that use.
+Mini-projects of the technologies that use.
 
 Software needed:
     - [Python 3.x](https://www.anaconda.com/distribution/#download-section)
