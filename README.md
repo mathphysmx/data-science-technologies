@@ -5,8 +5,8 @@ Mini-projects of the technologies that use.
 lkasjd
 
 - [Python 3.x](https://www.anaconda.com/distribution/#download-section)
-- llajsd
-- aslkjd salk's
+- [Docker & Docker compose](https://www.docker.com/products/docker-desktop)
+- [Postman](https://www.getpostman.com/downloads/) for API testing
 
 Software needed:
 
