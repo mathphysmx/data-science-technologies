@@ -4,7 +4,7 @@ Mini-projects of the technologies that use.
 
 lkasjd
 
-- a
+- [Python 3.x](https://www.anaconda.com/distribution/#download-section)
 - llajsd
 - aslkjd salk's
 
