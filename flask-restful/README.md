@@ -4,7 +4,7 @@ This project is just a fork of [https://github.com/krishnaik06/Deployment-flask]
 
 ## ML-Model-Flask-Deployment
 
-This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
+This is a demo project to show how Machine Learn Models are deployed on production using Flask API.
 
 ### Prerequisites
 
@@ -56,4 +56,4 @@ python request.py
 
 ## Deploying this Flask web app in a Docker container
 
-[Flask app inside docker](http://containertutorials.com/docker-compose/flask-simple-app.html)
+Follow the instructions in [Flask app inside docker](http://containertutorials.com/docker-compose/flask-simple-app.html).
