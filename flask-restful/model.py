@@ -1,4 +1,3 @@
-# Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -28,7 +27,7 @@ y = dataset.iloc[:, -1]
 from sklearn.linear_model import LinearRegression
 regressor = LinearRegression()
 
-#Fitting model with trainig data
+#Fitting model with training data
 regressor.fit(X, y)
 
 # Saving model to disk
